@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(to right top, rgb(96, 96, 255),rgb(73, 209, 73),rgb(13, 178, 196),rgb(7, 246, 159));
+    font-family: 'Cinzel Decorative', cursive;
+    color: black;
+}
+
+#score{
+float: left;
+margin-left: 200px;
+}
+
+#timer{
+    float: right;
+    margin-right: 300px;
+}
+
+#show_sketch{
+    float: right;
+}
+
+h1{
+    background-color: rgb(7, 246, 159);
+    padding: 5px;
+}
+
+canvas{
+    margin-top: 140px;
+}
